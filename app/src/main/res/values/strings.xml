@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NYTimes</string>
+
+
+    <string name="noNetworkTitle">Network Error</string>
+    <string name="noNetworkMessage">The network connection seems to have been lost. Please check the connection and coverage.</string>
+    <string name="plz_try_again">OOPS! Something went wrong. Please try again.</string>
+    <string name="title">Title</string>
+    <string name="title_abstract">Description</string>
+</resources>
